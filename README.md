@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer" href="https://guylyons.dev/art/jimly.png">
+	<img src="https://guylyons.dev/art/jimly.png" alt="Hello. I'm Guy." style="max-width: 100%;">
+	</a>
+</div>
