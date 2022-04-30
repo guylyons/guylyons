@@ -1,3 +1,9 @@
+<div align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer" href="https://guylyons.dev/art/jimly.png">
+	<img width="300" src="https://guylyons.dev/art/jimly.png" alt="Hello. I'm Guy." style="max-width: 100%;">
+	</a>
+</div>
+
 ### Hi, I'm Guy (he/him) 😃‍
 
 A Portland, Maine based developer. I specialize in Drupal, WordPress and Ruby on Rails applications. In the past I've also worked as a freelance designer and illustrator.
@@ -16,9 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center" dir="auto">
-	<a target="_blank" rel="noopener noreferrer" href="https://guylyons.dev/art/jimly.png">
-	<img width="300" src="https://guylyons.dev/art/jimly.png" alt="Hello. I'm Guy." style="max-width: 100%;">
-	</a>
-</div>
