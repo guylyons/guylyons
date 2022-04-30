@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Guy 😃‍
+
+A Portland, Maine based developer. I specialize in Drupal, WordPress and Ruby on Rails applications. In the past I've also worked as a freelance designer and illustrator.
+
+Interested in working with me? Reach out: _guylyons[at]hey[dot]com_
 
 <!--
 **guylyons/guylyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
