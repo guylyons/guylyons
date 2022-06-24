@@ -5,7 +5,7 @@
 </div>
 
 ### Hi, I'm Guy (he/him) 😃‍
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently writing dev tools in Go
 - ⚡ Contributing to Project Browser (Drupal module)
 - 🔭 I’m currently working on writing a clipboard manager, and exploring various APIs
 - 💬 Find me on IRC irc.libera.chat as cstls. Usually idling in #emacs.
