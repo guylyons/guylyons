@@ -1,8 +1,8 @@
-<div align="center" dir="auto">
-	<a target="_blank" rel="noopener noreferrer" href="https://guylyons.dev/art/jimly.png">
-	<img width="200" src="https://guylyons.dev/art/jimly.png" alt="Hello. I'm Guy." style="max-width: 100%;">
-	</a>
-</div>
+
+<a target="_blank" rel="noopener noreferrer" href="https://guylyons.dev/art/jimly.png">
+<img width="200" src="https://guylyons.dev/art/jimly.png" alt="Hello. I'm Guy." style="max-width: 100%;">
+</a>
+
 
 ### Hi, I'm Guy (he/him) 😃‍
 - 🌱 I’m currently writing dev tools in Go
