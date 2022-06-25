@@ -5,10 +5,8 @@
 
 
 ### Hi, I'm Guy (he/him) 😃‍
-- 🌱 I’m currently writing dev tools in Go
 - ⚡ Contributing to Project Browser (Drupal module)
-- 🔭 I’m currently working on writing a clipboard manager, and exploring various APIs
-- 💬 Find me on IRC irc.libera.chat as cstls. Usually idling in #emacs.
+- 🔭 I’m currently writing a clipboard manager that works with pandoc.
 
 A Portland, Maine based developer. I specialize in Drupal, WordPress and Ruby on Rails applications. In the past I've also worked as a freelance designer and illustrator.
 
