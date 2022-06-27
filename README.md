@@ -1,9 +1,3 @@
-
-<a target="_blank" rel="noopener noreferrer" href="https://guylyons.dev/art/jimly.png">
-<img width="200" src="https://guylyons.dev/art/jimly.png" alt="Hello. I'm Guy." style="max-width: 100%;">
-</a>
-
-
 ### Hi, I'm Guy (he/him) 😃‍
 - ⚡ Contributing to Project Browser (Drupal module)
 - 🔭 I’m currently writing a clipboard manager that works with pandoc.
