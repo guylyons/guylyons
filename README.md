@@ -2,7 +2,7 @@
 - ⚡ Contributing to Project Browser (Drupal module)
 - 🔭 I’m currently writing a clipboard manager that works with pandoc.
 
-A Portland, Maine based developer. I specialize in Drupal, WordPress and Ruby on Rails applications. In the past I've also worked as a freelance designer and illustrator.
+A Portland, Maine based developer. I specialize in Drupal, WordPress and Ruby on Rails applications.
 
 <!--
 **guylyons/guylyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
