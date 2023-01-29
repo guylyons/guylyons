@@ -1,6 +1,6 @@
 ### Hi, I'm Guy (he/him) 😃‍
 
-A Portland, Maine based developer. I specialize in Drupal, WordPress and Ruby on Rails applications.
+I specialize in Drupal, WordPress and Ruby on Rails applications.
 
 <!--
 **guylyons/guylyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
