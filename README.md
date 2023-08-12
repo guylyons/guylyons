@@ -1,4 +1,4 @@
-### Hi, I'm Guy (he/him) 😃‍
+### Hi, I'm Guy 😃‍
 
 I specialize in Drupal, WordPress and Ruby on Rails applications.
 
