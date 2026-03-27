@@ -1,17 +1,22 @@
-### Hi, I'm Guy 😃‍
+# Hi, I'm Guy 😃‍💻
 
-I specialize in Drupal, WordPress and Ruby on Rails applications.
+I build and maintain web applications with a focus on performance, scalability, and clean architecture.
 
-<!--
-**guylyons/guylyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Specialties
 
-Here are some ideas to get you started:
+- **Drupal (10/11)** — custom modules, APIs, configuration management, performance tuning
+- **WordPress** — custom themes/plugins, headless setups, optimization
+- **Ruby on Rails** — full-stack applications, REST APIs, background jobs
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ What I Care About
+
+- Maintainable, testable code
+- Modern architecture patterns (services, DI, event-driven)
+- Performance and caching strategies
+- Clean developer experience
+
+## 🚀 Current Focus
+
+- Drupal 11 architecture & modern module design
+- API-first / headless systems
+- Developer tooling (Emacs, Vim workflows)
