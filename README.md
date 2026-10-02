@@ -11,4 +11,4 @@
 
 ## Languages
 
-🦀 Rust ★ 🍎 Swift ★ 🟦 TypeScript ★ 🐘 PHP ★ 🐹 Go ★ 📜 Emacs Lisp
+Rust · Swift · TypeScript · PHP · Go · Emacs Lisp
