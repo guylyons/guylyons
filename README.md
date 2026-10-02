@@ -1,33 +1,37 @@
-# Hi, I'm Guy 👋
+<div align="center">
 
-Web developer who's spent years deep in **Drupal** 💧 and now spends a lot of time building with **LLMs** 🤖.
-I like fast tools, keyboard-driven workflows, and native apps that feel right.
+<h1>~*~ 🌐 Welcome 2 Guy's Homepage 🌐 ~*~</h1>
 
-🌐 [guylyons.dev](https://guylyons.dev)
+🚧 <b>UNDER CONSTRUCTION</b> 🚧<br>
+<sub>pardon our dust!!</sub>
 
-## 💧 Drupal
+<hr>
 
-- 🏗️ Built and maintained Drupal 7 and Drupal 8+ sites, including large university sites
-- 🔀 Migrations: moving content between Drupal versions with the Migrate API ([Drupal-Migrate-Linter](https://github.com/guylyons/Drupal-Migrate-Linter))
-- 🐳 Local dev with Docker and DDEV ([drupal-ddev](https://github.com/guylyons/drupal-ddev), [drupal-dockerfile](https://github.com/guylyons/drupal-dockerfile))
-- 🎨 Custom themes, modules, and the occasional WordPress / WooCommerce plugin
+<h2>🛠️ Things I'm Building 🛠️</h2>
 
-## 🤖 LLMs & AI tooling
+<table border="1">
+<tr><th>Project</th><th>What it is</th></tr>
+<tr><td>✏️ <a href="https://github.com/guylyons/fred">fred</a></td><td>A vim/ed text editor in Rust, for quick edits</td></tr>
+<tr><td>📋 <a href="https://github.com/guylyons/elmers">elmers</a></td><td>A native macOS clipboard manager that remembers everything you copy</td></tr>
+<tr><td>📦 <a href="https://github.com/guylyons/unpack">unpack</a></td><td>Drag-and-drop archive extractor for macOS, SwiftUI + Liquid Glass</td></tr>
+<tr><td>🔍 <a href="https://github.com/guylyons/pss">pss</a></td><td>Readable <code>ps</code> for macOS, in Rust</td></tr>
+<tr><td>🧙 <a href="https://github.com/guylyons/jj-emacs">jj-emacs</a></td><td>A jj take on Magit for Emacs</td></tr>
+</table>
 
-- 🧠 Building with Claude every day: agents, tool use, and AI-assisted development
-- 🕵️ [agent-smith](https://github.com/guylyons/agent-smith): a fun, productive UI for Claude agents
-- ⚡ Most of my recent side projects were built pair-programming with an AI
+<hr>
 
-## 🛠️ Things I'm building
+<h2>💾 Languages 💾</h2>
 
-| | |
-|---|---|
-| ✏️ [fred](https://github.com/guylyons/fred) | A vim/ed text editor in Rust, for quick edits |
-| 📋 [elmers](https://github.com/guylyons/elmers) | A native macOS clipboard manager that remembers everything you copy |
-| 📦 [unpack](https://github.com/guylyons/unpack) | Drag-and-drop archive extractor for macOS, SwiftUI + Liquid Glass |
-| 🔍 [pss](https://github.com/guylyons/pss) | Readable `ps` for macOS, in Rust |
-| 🧙 [jj-emacs](https://github.com/guylyons/jj-emacs) | A jj take on Magit for Emacs |
+🦀 Rust ★ 🍎 Swift ★ 🟦 TypeScript ★ 🐘 PHP ★ 🐹 Go ★ 📜 Emacs Lisp
 
-## 🧰 Toolbox
+<hr>
 
-💧 Drupal · 🐘 PHP · 🦀 Rust · 🍎 Swift · 🟦 TypeScript · 🐹 Go · 🐳 Docker · 📝 Emacs & Neovim
+🏠 <a href="https://guylyons.dev">Visit my home page</a> 🏠<br>
+<br>
+<kbd>&lt;&lt; prev</kbd> 🕸️ <b>Guy's WebRing</b> 🕸️ <kbd>next &gt;&gt;</kbd><br>
+<br>
+<sub>👀 You are visitor #000042 👀</sub><br>
+<sub>Best viewed in Netscape Navigator 4.0 at 800x600</sub><br>
+<sub>📧 Sign my guestbook! 📧</sub>
+
+</div>
