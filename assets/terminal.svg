@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="terminal session: whoami, ls interests, typing commands">
+  <style>
+    text { font-family: ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace; font-size: 13px; }
+  </style>
+  <rect width="900" height="220" fill="#0a0c10"/>
+  <rect x="30" y="18" width="840" height="184" rx="10" fill="#0d1117" stroke="#21262d"/>
+  <rect x="31" y="19" width="838" height="34" rx="9" fill="#161b22"/>
+
+  <circle cx="54" cy="36" r="6" fill="#ff5f57"/>
+  <circle cx="73" cy="36" r="6" fill="#febc2e"/>
+  <circle cx="92" cy="36" r="6" fill="#28c840"/>
+  <text x="450" y="40" text-anchor="middle" font-size="12" fill="#6e7681">guy@mac: ~/github</text>
+  <line x1="31" y1="53" x2="869" y2="53" stroke="#21262d"/>
+
+  <text x="56" y="82"><tspan fill="#7ee787">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+  <text x="76" y="103" fill="#8b949e">guy lyons · guylyons.dev</text>
+
+  <text x="56" y="130"><tspan fill="#7ee787">$ </tspan><tspan fill="#c9d1d9">ls interests/</tspan></text>
+  <text x="76" y="151"><tspan fill="#58a6ff">macos-apps/</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#58a6ff">rust/</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#58a6ff">editors/</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#58a6ff">drupal/</tspan></text>
+
+  <!-- rotating last command, 3 x 4s -->
+  <g opacity="0"><text x="56" y="178"><tspan fill="#7ee787">$ </tspan><tspan fill="#58a6ff">fred todo.txt</tspan></text><rect x="177" y="167" width="7.5" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect><animate attributeName="opacity" dur="12s" begin="0s" values="0;1;1;0;0" keyTimes="0;0.05;0.30;0.33;1" repeatCount="indefinite"/></g>
+  <g opacity="0"><text x="56" y="178"><tspan fill="#7ee787">$ </tspan><tspan fill="#7ee787">pss | head</tspan></text><rect x="153" y="167" width="7.5" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect><animate attributeName="opacity" dur="12s" begin="4s" values="0;1;1;0;0" keyTimes="0;0.05;0.30;0.33;1" repeatCount="indefinite"/></g>
+  <g opacity="0"><text x="56" y="178"><tspan fill="#7ee787">$ </tspan><tspan fill="#bc8cff">jj log</tspan></text><rect x="121" y="167" width="7.5" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect><animate attributeName="opacity" dur="12s" begin="8s" values="0;1;1;0;0" keyTimes="0;0.05;0.30;0.33;1" repeatCount="indefinite"/></g>
+</svg>
