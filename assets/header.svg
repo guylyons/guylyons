@@ -31,16 +31,18 @@
   <text class="role" x="48" y="186" opacity="0"><tspan fill="#7ee787">&gt; </tspan>editors, Emacs and Neovim<animate attributeName="opacity" dur="12s" begin="6s" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" repeatCount="indefinite"/></text>
   <text class="role" x="48" y="186" opacity="0"><tspan fill="#7ee787">&gt; </tspan>Drupal and the web<animate attributeName="opacity" dur="12s" begin="9s" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" repeatCount="indefinite"/></text>
 
-  <circle cx="54" cy="270" r="4.5" fill="#3fb950">
+  <circle cx="54" cy="246" r="4.5" fill="#3fb950">
     <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
   </circle>
-  <text x="68" y="275" font-size="13.5" fill="#8b949e">probably rewriting something in Rust</text>
+  <text x="68" y="251" font-size="13.5" fill="#8b949e">probably rewriting something in Rust</text>
 
   <!-- numbers from the GitHub API, Oct 2026 -->
-  <text x="48" y="228" font-size="21" font-weight="600" fill="#e6edf3">107</text>
-  <text x="48" y="245" font-size="10.5" letter-spacing="0.6" fill="#6e7681" class="mono">PUBLIC REPOS</text>
-  <text x="238" y="228" font-size="21" font-weight="600" fill="#e6edf3">2015</text>
-  <text x="238" y="245" font-size="10.5" letter-spacing="0.6" fill="#6e7681" class="mono">ON GITHUB SINCE</text>
-  <text x="428" y="228" font-size="21" font-weight="600" fill="#e6edf3">6</text>
-  <text x="428" y="245" font-size="10.5" letter-spacing="0.6" fill="#6e7681" class="mono">LANGUAGES IN ROTATION</text>
+  <text x="852" y="110" text-anchor="end" font-size="21" font-weight="600" fill="#e6edf3">107</text>
+  <text x="852" y="127" text-anchor="end" font-size="10.5" letter-spacing="0.6" fill="#6e7681" class="mono">PUBLIC REPOS</text>
+  <line x1="668" y1="142" x2="852" y2="142" stroke="#21262d"/>
+  <text x="852" y="164" text-anchor="end" font-size="21" font-weight="600" fill="#e6edf3">2015</text>
+  <text x="852" y="181" text-anchor="end" font-size="10.5" letter-spacing="0.6" fill="#6e7681" class="mono">ON GITHUB SINCE</text>
+  <line x1="668" y1="196" x2="852" y2="196" stroke="#21262d"/>
+  <text x="852" y="218" text-anchor="end" font-size="21" font-weight="600" fill="#e6edf3">6</text>
+  <text x="852" y="235" text-anchor="end" font-size="10.5" letter-spacing="0.6" fill="#6e7681" class="mono">LANGUAGES IN ROTATION</text>
 </svg>
